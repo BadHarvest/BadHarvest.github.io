@@ -1,2 +1,0 @@
-# BadHarvest.github.io
-Website
