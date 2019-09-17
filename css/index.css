@@ -43,15 +43,13 @@ opacity: 1;
   top: 250px;
   padding-left:225px;
 
-
-
 }
-
 
 .sh-list-txt{
   position: absolute;
   top: 265px;
   padding-left:261px;
+  z-index:1;
 }
 
 #uh-a{
@@ -60,4 +58,64 @@ transition: all .2s ease-in-out;
 
 #uh-a:hover{
 transform: scale(1.1);
+}
+
+.sh-list-img-nomen{
+  position: absolute;
+  top: 400px;
+  padding-left:225px;
+}
+.sh-list-txt-nomen{
+  position: absolute;
+  top: 416px;
+  padding-left:261px;
+  z-index:1;
+}
+.sh-list-img-prop{
+  position: absolute;
+  top: 550px;
+  padding-left:225px;
+}
+.sh-list-txt-prop{
+  position: absolute;
+  top: 567px;
+  padding-left:261px;
+    width: 300px;
+  z-index: 1;
+}
+.sh-list-img-react{
+  position: absolute;
+  top: 250px;
+  padding-left:850px;
+}
+.sh-list-txt-react{
+  position: absolute;
+  top: 265px;
+  padding-left:885px;
+}
+.sh-list-img-app{
+  position: absolute;
+  top: 400px;
+  padding-left:850px;
+}
+.sh-list-txt-app{
+  position: absolute;
+  top: 416px;
+  padding-left:885px;
+    max-width: 300px;
+}
+.back-img{
+  position: absolute;
+  top: 550px;
+  padding-left:850px;
+}
+.back-txt{
+  position: absolute;
+  top: 567px;
+  padding-left:885px;
+}
+.section-list{
+/* overflow: hidden;
+overflow-x: hidden;
+max-width: 300px; */
 }
