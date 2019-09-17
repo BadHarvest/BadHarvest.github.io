@@ -1,0 +1,63 @@
+#clogo{
+  position:absolute;
+}
+#head{
+  position: absolute;
+  top: 40px;
+  padding-left: 100px;
+
+}
+#foot{
+  position: absolute;
+  top: 85px;
+  padding-left:100px;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+#name{
+  position: absolute;
+  top: 130px;
+  padding-left:120px;
+}
+.fade-in {
+opacity: 1;
+animation-name: fadeInOpacity;
+animation-iteration-count: 1;
+animation-timing-function: ease-in;
+animation-duration: 2s;
+}
+
+@keyframes fadeInOpacity {
+0% {
+opacity: 0;
+}
+100% {
+opacity: 1;
+}
+}
+
+.sh-list-img{
+  position: absolute;
+  top: 250px;
+  padding-left:225px;
+
+
+
+}
+
+
+.sh-list-txt{
+  position: absolute;
+  top: 265px;
+  padding-left:261px;
+}
+
+#uh-a{
+transition: all .2s ease-in-out;
+}
+
+#uh-a:hover{
+transform: scale(1.1);
+}
