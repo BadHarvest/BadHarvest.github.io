@@ -1,0 +1,76 @@
+<?xml version="1.0" ?><svg height="39.64286mm" version="1.0" viewBox="0 0 144 150" width="38.05714mm" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Helvetica" font-size="12pt" stroke-linecap="round" transform="translate(-89,-129)">
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="225.44" x2="188.00" y1="233.40" y2="270.85"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="225.44" x2="225.44" y1="180.44" y2="233.40"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="188.00" x2="135.04" y1="270.85" y2="270.85"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="135.04" x2="97.60" y1="270.85" y2="233.40"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="188.00" x2="225.44" y1="143.00" y2="180.44"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="97.60" x2="97.60" y1="233.40" y2="180.44"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="135.04" x2="188.00" y1="143.00" y2="143.00"/>
+      <line x1="139.01" x2="184.03" y1="137.04" y2="137.04"/>
+      <line x1="139.01" x2="184.03" y1="148.96" y2="148.96"/>
+    </g>
+    <g stroke="#000000" stroke-width="2.27027027027">
+      <line x1="97.60" x2="135.04" y1="180.44" y2="143.00"/>
+    </g>
+  </g>
+  <cdml version="0.15" xmlns="http://www.freesoftware.fsf.org/bkchem/cdml">
+    <info>
+      <author_program version="0.12.5">BKchem</author_program>
+    </info>
+    <paper crop_margin="5" crop_svg="1" orientation="portrait" replace_minus="0" type="A4" use_real_minus="1"/>
+    <viewport viewport="0.000000 0.000000 640.000000 480.000000"/>
+    <standard area_color="" font_family="helvetica" font_size="24" line_color="#000" line_width="0.06cm" paper_crop_margin="5" paper_crop_svg="1" paper_orientation="portrait" paper_type="A4">
+      <bond double-ratio="0.85" length="1.4cm" wedge-width="0.18cm" width="0.21cm"/>
+      <arrow length="1.6cm"/>
+      <atom show_hydrogens="1"/>
+    </standard>
+    <molecule id="molecule48470" name="">
+      <atom hydrogens="on" id="atom24178" name="C" valency="4">
+        <point x="4.969cm" y="3.779cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom54162" name="C" valency="4">
+        <point x="5.958cm" y="4.769cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom49817" name="C" valency="4">
+        <point x="5.958cm" y="6.169cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom30974" name="C" valency="4">
+        <point x="4.969cm" y="7.158cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom87944" name="C" valency="4">
+        <point x="3.569cm" y="7.158cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom71428" name="C" valency="4">
+        <point x="2.579cm" y="6.169cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom44299" name="C" valency="4">
+        <point x="2.579cm" y="4.769cm"/>
+      </atom>
+      <atom hydrogens="on" id="atom30828" name="C" valency="4">
+        <point x="3.569cm" y="3.779cm"/>
+      </atom>
+      <bond double_ratio="0.85" end="atom30974" id="bond30449" line_width="2.27027027027" start="atom49817" type="n1"/>
+      <bond double_ratio="0.85" end="atom49817" id="bond87563" line_width="2.27027027027" start="atom54162" type="n1"/>
+      <bond double_ratio="0.85" end="atom87944" id="bond28281" line_width="2.27027027027" start="atom30974" type="n1"/>
+      <bond double_ratio="0.85" end="atom71428" id="bond89351" line_width="2.27027027027" start="atom87944" type="n1"/>
+      <bond double_ratio="0.85" end="atom54162" id="bond86814" line_width="2.27027027027" start="atom24178" type="n1"/>
+      <bond double_ratio="0.85" end="atom44299" id="bond25416" line_width="2.27027027027" start="atom71428" type="n1"/>
+      <bond bond_width="7.94594594595" double_ratio="0.85" end="atom24178" id="bond35930" line_width="2.27027027027" start="atom30828" type="n3"/>
+      <bond double_ratio="0.85" end="atom30828" id="bond87027" line_width="2.27027027027" start="atom44299" type="n1"/>
+    </molecule>
+  </cdml>
+</svg>

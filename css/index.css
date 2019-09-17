@@ -129,3 +129,17 @@ max-width: 300px; */
   top: 767px;
   padding-left:1085px;
 }
+.back-img-sec-more{
+  position: absolute;
+  top: 1100px;
+  padding-left:1050px;
+}
+.back-txt-sec-more{
+  position: absolute;
+  top: 1117px;
+  padding-left:1085px;
+}
+.bottom{
+  position: absolute;
+  top:800px;
+}
