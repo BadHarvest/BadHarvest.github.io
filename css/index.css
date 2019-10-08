@@ -153,3 +153,23 @@ max-width: 300px; */
   top: 834px;
   padding-left:1050px;
 }
+.back-img-sec-a-hg{
+  position: absolute;
+  top: 1218px;
+  padding-left:1050px;
+}
+.back-text-sec-a-hg{
+  position: absolute;
+  top: 1234px;
+  padding-left:1085px;
+}
+.back-img-sec-long{
+  position: absolute;
+  top: 1760px;
+  padding-left:1050px;
+}
+.back-txt-sec-long{
+  position: absolute;
+  top: 1777px;
+  padding-left:1085px;
+}
